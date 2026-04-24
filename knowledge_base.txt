@@ -1,0 +1,141 @@
+INFORMASI PLATFORM atau Website
+[Nama Website] adalah marketplace produk digital terpadu yang dirancang untuk menghubungkan kreator konten digital dengan pengguna yang membutuhkan solusi instan dan berkualitas. Platform ini berfokus pada penyediaan ekosistem perdagangan aset digital yang efisien, mulai dari materi edukasi hingga perangkat pengembangan lunak, guna mendukung akselerasi potensi digital masyarakat Indonesia.
+
+Target pengguna platform mencakup profesional, pelajar, pengembang teknologi, hingga pelaku bisnis kreatif. Platform berfungsi sebagai perantara yang menyediakan infrastruktur transaksi otomatis, pengelolaan inventaris digital, dan sistem distribusi konten yang aman bagi pembeli maupun penjual produk digital.
+
+VISI
+Menjadi ekosistem marketplace produk digital terdepan di Indonesia yang menginspirasi pertumbuhan ekonomi kreatif melalui demokratisasi akses terhadap aset digital berkualitas, inovasi teknologi yang berkelanjutan, dan pemberdayaan kreator digital dalam skala nasional.
+
+MISI
+Platform berkomitmen untuk menyediakan kurasi produk digital berkualitas tinggi yang telah melalui verifikasi standar agar memberikan nilai maksimal bagi pengguna. Kami berupaya memberikan dukungan penuh bagi para kreator untuk mendistribusikan karya mereka melalui infrastruktur teknologi yang andal.
+
+Kemudahan akses bagi pengguna menjadi prioritas utama melalui antarmuka yang intuitif dan proses pencarian produk yang efisien. Selain itu, platform memastikan keamanan dan kenyamanan setiap transaksi melalui integrasi teknologi pembayaran mutakhir yang menjamin perlindungan data dan validasi status pesanan secara real-time.
+
+FITUR PAYMENT GATEWAY
+Platform menggunakan sistem payment gateway terintegrasi untuk memproses pembayaran digital secara otomatis, aman, dan real-time. Sistem ini bertindak sebagai jembatan komunikasi antara pembeli, perbankan, dan platform untuk memastikan dana diterima dengan sah sebelum akses produk diberikan.
+
+Fungsi utama payment gateway adalah mengamankan data finansial melalui protokol enkripsi standar industri dan melakukan deteksi dini terhadap potensi aktivitas mencurigakan. Proses verifikasi pembayaran dilakukan secara otomatis oleh sistem tanpa memerlukan konfirmasi manual melalui pengiriman bukti transfer.
+
+Setiap transaksi akan menghasilkan status pembayaran yang dikeluarkan langsung oleh sistem payment gateway. Status ini memberikan kepastian hukum dan teknis bagi pengguna mengenai posisi transaksi mereka, apakah dana telah berhasil divalidasi atau memerlukan tindakan lebih lanjut.
+
+PRODUK DIGITAL
+Ebook merupakan buku elektronik dalam format dokumen digital yang berisi pengetahuan, panduan, atau literatur fiksi yang dapat dibaca melalui berbagai perangkat pintar.
+
+Video Course adalah rangkaian materi pembelajaran dalam bentuk visual dan audio yang disusun secara sistematis untuk memfasilitasi penguasaan keahlian tertentu secara mandiri.
+
+AI Prompt merupakan rangkaian instruksi atau teks perintah spesifik yang dioptimalkan untuk menghasilkan output berkualitas tinggi dari berbagai model kecerdasan buatan.
+
+Template Digital adalah file mentah siap pakai yang digunakan untuk mempermudah pekerjaan desain, administrasi, atau manajemen proyek tanpa harus memulai dari awal.
+
+Source Code adalah kumpulan baris kode pemrograman atau script yang dapat digunakan oleh pengembang untuk membangun, memodifikasi, atau mempelajari struktur aplikasi dan situs web.
+
+Desain Digital mencakup aset visual seperti ikon, elemen grafis, ilustrasi, dan font yang dapat digunakan untuk kebutuhan branding, konten media sosial, atau proyek kreatif lainnya.
+
+DETAIL PRODUK
+Ebook menyediakan literatur digital mendalam dengan navigasi yang mudah. Kisaran harga mulai dari Rp25.000 hingga Rp150.000. Model akses berupa download langsung ke perangkat pengguna.
+
+Video Course menawarkan pengalaman belajar interaktif dengan kualitas visual tinggi. Kisaran harga mulai dari Rp99.000 hingga Rp750.000. Model akses berupa akses online melalui platform secara streaming.
+
+AI Prompt berisi formula perintah teks yang akurat untuk efisiensi kerja. Kisaran harga mulai dari Rp15.000 hingga Rp75.000. Model akses berupa akses teks atau dokumen download.
+
+Template Digital menyediakan struktur kerja siap pakai untuk berbagai kebutuhan industri. Kisaran harga mulai dari Rp49.000 hingga Rp250.000. Model akses berupa download file sumber yang dapat diedit.
+
+Source Code mencakup logika pemrograman profesional yang siap diimplementasikan. Kisaran harga mulai dari Rp150.000 hingga Rp2.500.000. Model akses berupa lisensi penggunaan dan download folder project.
+
+Desain Digital menawarkan aset visual estetis untuk memperkuat identitas proyek. Kisaran harga mulai dari Rp35.000 hingga Rp350.000. Model akses berupa download file grafis dengan berbagai format resolusi tinggi.
+
+ALUR PENGGUNA & TRANSAKSI
+Pengguna memulai dengan melakukan registrasi akun menggunakan alamat email aktif untuk mendapatkan akses ke seluruh layanan platform. Setelah akun terverifikasi, pengguna melakukan login untuk masuk ke dalam sistem dan menjelajahi katalog produk yang tersedia.
+
+Pemilihan produk dilakukan dengan memasukkan aset digital yang diinginkan ke dalam keranjang belanja atau langsung menekan tombol beli. Pada tahap checkout, pengguna akan diarahkan untuk meninjau rincian pesanan dan total biaya yang harus dibayarkan.
+
+Setelah memilih metode pembayaran, pengguna melakukan pembayaran melalui payment gateway sesuai dengan nominal yang tertera. Sistem payment gateway akan melakukan verifikasi otomatis dalam hitungan detik setelah dana diterima oleh bank atau penyedia layanan pembayaran.
+
+Begitu verifikasi otomatis berhasil, status pesanan akan berubah dan produk digital dapat langsung diakses melalui dashboard pengguna tanpa perlu menunggu konfirmasi dari pihak admin atau penjual.
+
+PEMBAYARAN
+Metode pembayaran yang tersedia melalui payment gateway mencakup berbagai opsi digital seperti transfer bank melalui virtual account, dompet digital, serta metode pembayaran instan lainnya yang mendukung verifikasi real-time.
+
+Status Pending berarti transaksi telah dibuat namun sistem masih menunggu pengiriman dana dari pihak pembeli sesuai instruksi pembayaran.
+
+Status Berhasil menunjukkan bahwa dana telah diterima dan divalidasi oleh payment gateway, sehingga akses produk dapat diberikan secara otomatis.
+
+Status Gagal terjadi apabila proses pembayaran dibatalkan oleh pengguna atau terdapat kendala teknis dari sisi penyedia kanal pembayaran.
+
+Status Kedaluwarsa berarti batas waktu pembayaran yang ditentukan oleh sistem telah terlewati sebelum pengguna menyelesaikan pengiriman dana.
+
+AKSES & DISTRIBUSI PRODUK DIGITAL
+Setelah pembelian selesai, pengguna dapat menemukan seluruh produk yang telah dibeli pada halaman dashboard pribadi. Bagian riwayat pembelian menyediakan catatan lengkap mengenai transaksi masa lalu serta tautan aktif untuk mendapatkan file atau akses materi.
+
+Sistem mendukung fitur akses ulang yang memungkinkan pengguna mengunduh kembali file selama akun masih aktif dan produk tersedia di platform. Batasan penggunaan ditentukan oleh ketentuan internal platform guna mencegah penyalahgunaan aset digital.
+
+Ketentuan lisensi dasar memberikan hak kepada pembeli untuk menggunakan produk digital sesuai dengan peruntukannya. Produk dilarang untuk dijual kembali, didistribusikan secara ilegal, atau diklaim sebagai milik pribadi tanpa izin tertulis dari pihak terkait.
+
+KEBIJAKAN & KETENTUAN
+Kebijakan refund hanya dapat dipertimbangkan apabila terdapat kendala teknis permanen yang membuat produk sama sekali tidak dapat diakses sesuai deskripsi awal. Platform tidak memberikan refund atas kesalahan pemilihan produk oleh pengguna atau perubahan pikiran setelah akses diberikan.
+
+Seluruh hak cipta produk digital tetap melekat pada kreator atau pemilik asli aset tersebut. Pembelian hanya memberikan lisensi penggunaan sesuai batas yang ditentukan dalam rincian produk.
+
+Tanggung jawab pengguna mencakup keamanan akun pribadi dan penggunaan produk digital secara bijak. Pengguna wajib memastikan perangkat yang digunakan kompatibel dengan format file produk yang dibeli sebelum melakukan transaksi.
+
+SOP (STANDARD OPERATING PROCEDURE)
+SOP Registrasi Pengguna
+Pengguna mengakses halaman pendaftaran dan mengisi formulir data diri.
+
+Sistem mengirimkan tautan verifikasi ke alamat email yang didaftarkan.
+
+Pengguna melakukan klik pada tautan verifikasi untuk mengaktifkan akun.
+
+Akun resmi terdaftar dan siap digunakan untuk transaksi.
+
+SOP Proses Pembelian
+Sistem mencatat produk yang dipilih pengguna ke dalam database transaksi sementara.
+
+Pengguna menekan tombol bayar dan sistem meneruskan data ke payment gateway.
+
+Payment gateway mengeluarkan instruksi pembayaran unik sesuai metode yang dipilih.
+
+Sistem memantau notifikasi masuk dari penyedia pembayaran secara berkelanjutan.
+
+SOP Penanganan Pembayaran Gagal
+Sistem menerima informasi kegagalan atau pembatalan dari payment gateway.
+
+Pesanan ditandai sebagai gagal atau dibatalkan dalam basis data pengguna.
+
+Pengguna diberikan opsi untuk melakukan percobaan pembayaran ulang dengan pesanan baru.
+
+Log kegagalan disimpan untuk kebutuhan audit sistem jika diperlukan.
+
+SOP Permintaan Refund
+Pengguna mengirimkan laporan kendala akses melalui kanal bantuan resmi.
+
+Tim teknis melakukan verifikasi terhadap status akses dan validitas produk.
+
+Jika terbukti terjadi kegagalan sistem permanen, proses pengembalian dana akan diteruskan ke penyedia pembayaran.
+
+Status refund akan diperbarui di dashboard pengguna setelah proses selesai.
+
+SOP Akses Produk Digital
+Setelah notifikasi berhasil diterima, sistem mengubah status pesanan menjadi lunas.
+
+Tautan unduhan atau akses materi secara otomatis muncul di halaman dashboard.
+
+Sistem mengirimkan email konfirmasi bahwa produk sudah siap digunakan.
+
+Pengguna dapat mulai melakukan aktivitas download atau streaming materi.
+
+PERTANYAAN YANG SERING DIAJUKAN (FAQ)
+Apa fungsi payment gateway dalam platform ini?
+Payment gateway berfungsi sebagai sistem otomatis yang mengamankan transaksi dan melakukan verifikasi pembayaran secara langsung agar pengguna tidak perlu mengirimkan bukti transfer manual untuk mendapatkan produk.
+
+Bagaimana harga produk ditentukan?
+Harga produk digital ditentukan berdasarkan nilai kualitas, kompleksitas, dan manfaat produk tersebut bagi pengguna dengan tetap menjaga standar harga yang kompetitif di pasar Indonesia.
+
+Mengapa pembayaran saya belum terverifikasi?
+Pastikan Anda telah mengirimkan dana sesuai dengan nominal dan instruksi yang diberikan. Jika status tetap pending, silakan tunggu beberapa saat karena sistem sedang melakukan sinkronisasi dengan jaringan perbankan melalui payment gateway.
+
+Bagaimana cara saya mengakses produk yang sudah dibeli?
+Anda cukup masuk ke halaman dashboard akun Anda dan memilih menu riwayat pembelian untuk mendapatkan tautan download atau akses materi secara langsung.
+
+Apakah saya bisa meminta refund jika salah membeli produk?
+Sesuai kebijakan platform, refund tidak dapat diberikan untuk kesalahan pemilihan produk atau jika akses digital telah diberikan. Kami menyarankan pengguna membaca deskripsi produk secara teliti sebelum melakukan checkout.
